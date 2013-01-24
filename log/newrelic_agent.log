@@ -1,0 +1,325 @@
+# Logfile created on 2012-12-01 21:53:15 -0500 by logger.rb/31641
+[12/01/12 21:53:15 -0500 Betty (4840)] INFO : Dispatcher: webrick
+[12/01/12 21:53:15 -0500 Betty (4840)] INFO : Application: My Application
+[12/01/12 21:53:15 -0500 Betty (4840)] WARN : Agent configured not to send data in this environment.
+[12/01/12 21:53:15 -0500 Betty (4840)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 4840
+[12/01/12 21:53:15 -0500 Betty (4840)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/01/12 21:53:32 -0500 Betty (6324)] INFO : Dispatcher: webrick
+[12/01/12 21:53:32 -0500 Betty (6324)] INFO : Application: My Application
+[12/01/12 21:53:32 -0500 Betty (6324)] WARN : Agent configured not to send data in this environment.
+[12/01/12 21:53:32 -0500 Betty (6324)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 6324
+[12/01/12 21:53:32 -0500 Betty (6324)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/01/12 21:54:35 -0500 Betty (2280)] INFO : Dispatcher: webrick
+[12/01/12 21:54:35 -0500 Betty (2280)] INFO : Application: My Application
+[12/01/12 21:54:35 -0500 Betty (2280)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2280
+[12/01/12 21:54:35 -0500 Betty (2280)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/01/12 21:56:07 -0500 Betty (7476)] INFO : Dispatcher: webrick
+[12/01/12 21:56:07 -0500 Betty (7476)] INFO : Application: My Application
+[12/01/12 21:56:07 -0500 Betty (7476)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7476
+[12/01/12 21:56:07 -0500 Betty (7476)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/01/12 21:57:37 -0500 Betty (7212)] INFO : Dispatcher: webrick
+[12/01/12 21:57:37 -0500 Betty (7212)] INFO : Application: My Application
+[12/01/12 21:57:37 -0500 Betty (7212)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7212
+[12/01/12 21:57:37 -0500 Betty (7212)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/01/12 21:57:48 -0500 Betty (7212)] INFO : Connected to NewRelic Service at collector-4.newrelic.com
+[12/01/12 21:57:48 -0500 Betty (7212)] INFO : Reporting to: https://rpm.newrelic.com/accounts/196854/applications/1125997
+[12/01/12 21:57:48 -0500 Betty (7212)] INFO : Reporting performance data every 60 seconds.
+[12/01/12 21:58:48 -0500 Betty (7212)] INFO : RPM has detected that this agent has stale configuration. Launch time=2012-12-02 02:58:15 Config time=2012-12-02 02:58:15 Forcing restart.
+[12/01/12 21:58:48 -0500 Betty (7212)] INFO : RPM has detected that this agent has stale configuration. Launch time=2012-12-02 02:58:15 Config time=2012-12-02 02:58:15 Forcing restart.
+[12/01/12 21:58:48 -0500 Betty (7212)] INFO : RPM has detected that this agent has stale configuration. Launch time=2012-12-02 02:58:15 Config time=2012-12-02 02:58:15 Forcing restart.
+[12/01/12 21:59:28 -0500 Betty (7212)] INFO : Connected to NewRelic Service at collector-4.newrelic.com
+[12/01/12 21:59:28 -0500 Betty (7212)] INFO : Reporting to: https://rpm.newrelic.com/accounts/196854/applications/1125997
+[12/01/12 21:59:28 -0500 Betty (7212)] INFO : Reporting performance data every 60 seconds.
+[12/03/12 18:23:17 -0500 Betty (6268)] INFO : Dispatcher: webrick
+[12/03/12 18:23:17 -0500 Betty (6268)] INFO : Application: My Application
+[12/03/12 18:23:17 -0500 Betty (6268)] WARN : Agent configured not to send data in this environment.
+[12/03/12 18:23:17 -0500 Betty (6268)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 6268
+[12/03/12 18:23:17 -0500 Betty (6268)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/03/12 18:24:17 -0500 Betty (6452)] INFO : Dispatcher: webrick
+[12/03/12 18:24:17 -0500 Betty (6452)] INFO : Application: My Application
+[12/03/12 18:24:17 -0500 Betty (6452)] WARN : Agent configured not to send data in this environment.
+[12/03/12 18:24:17 -0500 Betty (6452)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 6452
+[12/03/12 18:24:17 -0500 Betty (6452)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/03/12 18:24:38 -0500 Betty (5600)] INFO : Dispatcher: webrick
+[12/03/12 18:24:38 -0500 Betty (5600)] INFO : Application: My Application
+[12/03/12 18:24:38 -0500 Betty (5600)] WARN : Agent configured not to send data in this environment.
+[12/03/12 18:24:38 -0500 Betty (5600)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 5600
+[12/03/12 18:24:38 -0500 Betty (5600)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/03/12 18:40:44 -0500 Betty (7968)] INFO : Dispatcher: webrick
+[12/03/12 18:40:44 -0500 Betty (7968)] INFO : Application: My Application
+[12/03/12 18:40:44 -0500 Betty (7968)] WARN : Agent configured not to send data in this environment.
+[12/03/12 18:40:44 -0500 Betty (7968)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7968
+[12/03/12 18:40:44 -0500 Betty (7968)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/03/12 18:56:40 -0500 Betty (2216)] INFO : Dispatcher: webrick
+[12/03/12 18:56:40 -0500 Betty (2216)] INFO : Application: My Application
+[12/03/12 18:56:40 -0500 Betty (2216)] WARN : Agent configured not to send data in this environment.
+[12/03/12 18:56:40 -0500 Betty (2216)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2216
+[12/03/12 18:56:40 -0500 Betty (2216)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/04/12 00:33:42 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `current_user=' for #<SessionsController:0x5ed85a8>
+[12/04/12 00:34:53 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `current_user=' for #<SessionsController:0x5a5c070>
+[12/04/12 00:34:53 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `current_user=' for #<SessionsController:0x5a5c070>
+[12/04/12 00:46:57 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: c:/Sites/calmlycoding/app/views/layouts/_header.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting ')'
+...o "Sign out", '/signout' method: "delete" );@output_buffer.s...
+...                               ^
+[12/04/12 00:46:57 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: c:/Sites/calmlycoding/app/views/layouts/_header.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting ')'
+...o "Sign out", '/signout' method: "delete" );@output_buffer.s...
+...                               ^
+[12/04/12 00:48:03 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `current_user=' for #<SessionsController:0x60da700>
+[12/04/12 00:48:03 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `current_user=' for #<SessionsController:0x60da700>
+[12/04/12 01:01:20 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[12/04/12 01:01:20 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[12/04/12 01:01:25 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[12/04/12 01:01:25 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[12/04/12 01:02:05 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template sessions/destroy, application/destroy with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+
+[12/04/12 01:02:05 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template sessions/destroy, application/destroy with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+
+[12/04/12 01:02:52 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `root' for #<SessionsController:0x7bfd1e8>
+[12/04/12 01:02:52 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `root' for #<SessionsController:0x7bfd1e8>
+[12/04/12 18:53:38 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x78c3108>
+[12/04/12 18:53:38 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x78c3108>
+[12/04/12 20:29:28 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x9ff2868>
+[12/04/12 20:29:28 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x9ff2868>
+[12/04/12 20:53:01 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x90bd378>
+[12/04/12 20:53:01 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x90bd378>
+[12/04/12 20:53:09 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x93e2488>
+[12/04/12 20:53:09 -0500 Betty (2216)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `tags' for #<Post:0x93e2488>
+[12/04/12 21:01:49 -0500 Betty (2004)] INFO : Dispatcher: webrick
+[12/04/12 21:01:49 -0500 Betty (2004)] INFO : Application: My Application
+[12/04/12 21:01:49 -0500 Betty (2004)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2004
+[12/04/12 21:01:49 -0500 Betty (2004)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/04/12 21:02:03 -0500 Betty (3088)] INFO : Dispatcher: webrick
+[12/04/12 21:02:03 -0500 Betty (3088)] INFO : Application: My Application
+[12/04/12 21:02:03 -0500 Betty (3088)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 3088
+[12/04/12 21:02:03 -0500 Betty (3088)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/04/12 21:04:31 -0500 Betty (7364)] INFO : Dispatcher: webrick
+[12/04/12 21:04:31 -0500 Betty (7364)] INFO : Application: My Application
+[12/04/12 21:04:31 -0500 Betty (7364)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7364
+[12/04/12 21:04:31 -0500 Betty (7364)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/04/12 21:28:14 -0500 Betty (5996)] INFO : Dispatcher: webrick
+[12/04/12 21:28:14 -0500 Betty (5996)] INFO : Application: My Application
+[12/04/12 21:28:14 -0500 Betty (5996)] WARN : Agent configured not to send data in this environment.
+[12/04/12 21:28:14 -0500 Betty (5996)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 5996
+[12/04/12 21:28:14 -0500 Betty (5996)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/04/12 21:28:51 -0500 Betty (8444)] INFO : Dispatcher: webrick
+[12/04/12 21:28:51 -0500 Betty (8444)] INFO : Application: My Application
+[12/04/12 21:28:51 -0500 Betty (8444)] WARN : Agent configured not to send data in this environment.
+[12/04/12 21:28:51 -0500 Betty (8444)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8444
+[12/04/12 21:28:51 -0500 Betty (8444)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:17:36 -0500 Betty (2224)] INFO : Dispatcher: webrick
+[12/05/12 19:17:36 -0500 Betty (2224)] INFO : Application: My Application
+[12/05/12 19:17:36 -0500 Betty (2224)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:17:36 -0500 Betty (2224)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2224
+[12/05/12 19:17:36 -0500 Betty (2224)] INFO : Agent Log at C:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:25:59 -0500 Betty (8264)] INFO : Dispatcher: webrick
+[12/05/12 19:25:59 -0500 Betty (8264)] INFO : Application: My Application
+[12/05/12 19:25:59 -0500 Betty (8264)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:25:59 -0500 Betty (8264)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8264
+[12/05/12 19:25:59 -0500 Betty (8264)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:26:16 -0500 Betty (7268)] INFO : Dispatcher: webrick
+[12/05/12 19:26:16 -0500 Betty (7268)] INFO : Application: My Application
+[12/05/12 19:26:16 -0500 Betty (7268)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:26:16 -0500 Betty (7268)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7268
+[12/05/12 19:26:16 -0500 Betty (7268)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:27:11 -0500 Betty (4756)] INFO : Dispatcher: webrick
+[12/05/12 19:27:11 -0500 Betty (4756)] INFO : Application: My Application
+[12/05/12 19:27:11 -0500 Betty (4756)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:27:11 -0500 Betty (4756)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 4756
+[12/05/12 19:27:11 -0500 Betty (4756)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:27:26 -0500 Betty (7120)] INFO : Dispatcher: webrick
+[12/05/12 19:27:26 -0500 Betty (7120)] INFO : Application: My Application
+[12/05/12 19:27:26 -0500 Betty (7120)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:27:26 -0500 Betty (7120)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 7120
+[12/05/12 19:27:26 -0500 Betty (7120)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:28:16 -0500 Betty (8388)] INFO : Dispatcher: webrick
+[12/05/12 19:28:16 -0500 Betty (8388)] INFO : Application: My Application
+[12/05/12 19:28:16 -0500 Betty (8388)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:28:16 -0500 Betty (8388)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8388
+[12/05/12 19:28:16 -0500 Betty (8388)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:29:38 -0500 Betty (6956)] INFO : Dispatcher: webrick
+[12/05/12 19:29:38 -0500 Betty (6956)] INFO : Application: My Application
+[12/05/12 19:29:38 -0500 Betty (6956)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:29:38 -0500 Betty (6956)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 6956
+[12/05/12 19:29:38 -0500 Betty (6956)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/05/12 19:30:41 -0500 Betty (8696)] INFO : Dispatcher: webrick
+[12/05/12 19:30:41 -0500 Betty (8696)] INFO : Application: My Application
+[12/05/12 19:30:41 -0500 Betty (8696)] WARN : Agent configured not to send data in this environment.
+[12/05/12 19:30:41 -0500 Betty (8696)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8696
+[12/05/12 19:30:41 -0500 Betty (8696)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/18/12 18:45:29 -0500 Betty (1164)] INFO : Dispatcher: webrick
+[12/18/12 18:45:29 -0500 Betty (1164)] INFO : Application: My Application
+[12/18/12 18:45:29 -0500 Betty (1164)] WARN : Agent configured not to send data in this environment.
+[12/18/12 18:45:29 -0500 Betty (1164)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 1164
+[12/18/12 18:45:29 -0500 Betty (1164)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[12/18/12 18:45:55 -0500 Betty (6976)] INFO : Dispatcher: webrick
+[12/18/12 18:45:55 -0500 Betty (6976)] INFO : Application: My Application
+[12/18/12 18:45:55 -0500 Betty (6976)] WARN : Agent configured not to send data in this environment.
+[12/18/12 18:45:55 -0500 Betty (6976)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 6976
+[12/18/12 18:45:55 -0500 Betty (6976)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/04/13 07:24:59 -0500 Betty (1328)] INFO : Dispatcher: webrick
+[01/04/13 07:24:59 -0500 Betty (1328)] INFO : Application: My Application
+[01/04/13 07:24:59 -0500 Betty (1328)] WARN : Agent configured not to send data in this environment.
+[01/04/13 07:24:59 -0500 Betty (1328)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 1328
+[01/04/13 07:24:59 -0500 Betty (1328)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/04/13 08:21:54 -0500 Betty (8792)] INFO : Dispatcher: webrick
+[01/04/13 08:21:54 -0500 Betty (8792)] INFO : Application: My Application
+[01/04/13 08:21:54 -0500 Betty (8792)] WARN : Agent configured not to send data in this environment.
+[01/04/13 08:21:54 -0500 Betty (8792)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8792
+[01/04/13 08:21:54 -0500 Betty (8792)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/04/13 08:47:22 -0500 Betty (3764)] INFO : Dispatcher: webrick
+[01/04/13 08:47:22 -0500 Betty (3764)] INFO : Application: My Application
+[01/04/13 08:47:22 -0500 Betty (3764)] WARN : Agent configured not to send data in this environment.
+[01/04/13 08:47:22 -0500 Betty (3764)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 3764
+[01/04/13 08:47:22 -0500 Betty (3764)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/04/13 08:54:37 -0500 Betty (8044)] INFO : Dispatcher: webrick
+[01/04/13 08:54:37 -0500 Betty (8044)] INFO : Application: My Application
+[01/04/13 08:54:37 -0500 Betty (8044)] WARN : Agent configured not to send data in this environment.
+[01/04/13 08:54:37 -0500 Betty (8044)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 8044
+[01/04/13 08:54:37 -0500 Betty (8044)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 13:36:16 -0500 Betty (4056)] INFO : Dispatcher: webrick
+[01/09/13 13:36:16 -0500 Betty (4056)] INFO : Application: My Application
+[01/09/13 13:36:16 -0500 Betty (4056)] WARN : Agent configured not to send data in this environment.
+[01/09/13 13:36:16 -0500 Betty (4056)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 4056
+[01/09/13 13:36:16 -0500 Betty (4056)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 13:37:48 -0500 Betty (5608)] INFO : Dispatcher: webrick
+[01/09/13 13:37:48 -0500 Betty (5608)] INFO : Application: My Application
+[01/09/13 13:37:48 -0500 Betty (5608)] WARN : Agent configured not to send data in this environment.
+[01/09/13 13:37:48 -0500 Betty (5608)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 5608
+[01/09/13 13:37:48 -0500 Betty (5608)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 14:38:17 -0500 Betty (2964)] INFO : Dispatcher: webrick
+[01/09/13 14:38:17 -0500 Betty (2964)] INFO : Application: My Application
+[01/09/13 14:38:17 -0500 Betty (2964)] WARN : Agent configured not to send data in this environment.
+[01/09/13 14:38:17 -0500 Betty (2964)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2964
+[01/09/13 14:38:17 -0500 Betty (2964)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 14:50:06 -0500 Betty (188)] INFO : Dispatcher: webrick
+[01/09/13 14:50:06 -0500 Betty (188)] INFO : Application: My Application
+[01/09/13 14:50:06 -0500 Betty (188)] WARN : Agent configured not to send data in this environment.
+[01/09/13 14:50:06 -0500 Betty (188)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 188
+[01/09/13 14:50:06 -0500 Betty (188)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 15:21:03 -0500 Betty (5580)] INFO : Dispatcher: webrick
+[01/09/13 15:21:03 -0500 Betty (5580)] INFO : Application: My Application
+[01/09/13 15:21:03 -0500 Betty (5580)] WARN : Agent configured not to send data in this environment.
+[01/09/13 15:21:03 -0500 Betty (5580)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 5580
+[01/09/13 15:21:03 -0500 Betty (5580)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/09/13 15:38:34 -0500 Betty (4844)] INFO : Dispatcher: webrick
+[01/09/13 15:38:34 -0500 Betty (4844)] INFO : Application: My Application
+[01/09/13 15:38:34 -0500 Betty (4844)] WARN : Agent configured not to send data in this environment.
+[01/09/13 15:38:34 -0500 Betty (4844)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 4844
+[01/09/13 15:38:34 -0500 Betty (4844)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/14/13 15:07:18 -0500 Betty (2272)] INFO : Dispatcher: webrick
+[01/14/13 15:07:18 -0500 Betty (2272)] INFO : Application: My Application
+[01/14/13 15:07:18 -0500 Betty (2272)] WARN : Agent configured not to send data in this environment.
+[01/14/13 15:07:18 -0500 Betty (2272)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 2272
+[01/14/13 15:07:18 -0500 Betty (2272)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/14/13 17:09:49 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:10:34 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:10:34 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:34 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:34 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:39 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:39 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:40 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:40 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:41 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:11:41 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:22 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:22 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:23 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:23 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:26 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:26 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:52 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:12:52 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:13:06 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:13:06 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:13:21 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial posts/error_messages, application/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:13:21 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial posts/error_messages, application/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:14:04 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial posts/error_messages, application/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 17:14:04 -0500 Betty (2272)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial posts/error_messages, application/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "c:/Sites/calmlycoding/app/views"
+  * "D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/ckeditor-3.7.3/app/views"
+
+[01/14/13 18:03:28 -0500 Betty (3444)] INFO : Dispatcher: webrick
+[01/14/13 18:03:28 -0500 Betty (3444)] INFO : Application: My Application
+[01/14/13 18:03:28 -0500 Betty (3444)] WARN : Agent configured not to send data in this environment.
+[01/14/13 18:03:28 -0500 Betty (3444)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 3444
+[01/14/13 18:03:28 -0500 Betty (3444)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log
+[01/17/13 13:59:58 -0500 Betty (5672)] INFO : Dispatcher: webrick
+[01/17/13 13:59:58 -0500 Betty (5672)] INFO : Application: My Application
+[01/17/13 13:59:58 -0500 Betty (5672)] WARN : Agent configured not to send data in this environment.
+[01/17/13 13:59:58 -0500 Betty (5672)] INFO : New Relic Ruby Agent 3.5.0 Initialized: pid = 5672
+[01/17/13 13:59:58 -0500 Betty (5672)] INFO : Agent Log at c:/Sites/calmlycoding/log/newrelic_agent.log

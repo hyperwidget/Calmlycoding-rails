@@ -1,0 +1,23 @@
+<h1>Search Results</h1>
+
+  <% if @posts.count == 0 %>
+    <h3>No posts match your search results</h3>
+    <% else %>
+
+  <% @posts.each do |enum| %>
+    <article>
+    <header>
+      <h1><%= getTitle enum %></h1>
+    </header
+      <div id = 'prePost'> Author : Hunter Jansen - Posted on : <%= getDate enum %> Category - <%= getCat enum %></div>
+      <br/>
+      <%= getIntro enum %>
+      <br/>
+      <%= link_to "Continue Reading", "posts/#{enum}" %>
+      <br/>
+      <br/>
+      <br/>
+    <% end %>
+    <% end %>
+  </article>
+<br />

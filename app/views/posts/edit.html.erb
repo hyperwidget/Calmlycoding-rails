@@ -1,0 +1,9 @@
+<h1>Editing post</h1>
+
+<% if signed_in? %>
+	<%= render 'form' %>
+<% else %>
+	<p>Sorry, not allowed</p>
+<% end %>
+<%= link_to 'Show', @post %> |
+<%= link_to 'Back', posts_path %>

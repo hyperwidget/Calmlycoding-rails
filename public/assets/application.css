@@ -1,0 +1,408 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+
+
+ */
+
+/* line 1, ../../app/assets/stylesheets/custom.css.scss */
+body {
+  font-family: Century Gothic, sans-serif;
+  background-color: #231F20;
+}
+
+/* line 6, ../../app/assets/stylesheets/custom.css.scss */
+.topBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  color: #FFF;
+  margin: 0 auto;
+  border-bottom: 1px solid #d9f966;
+}
+
+/* line 17, ../../app/assets/stylesheets/custom.css.scss */
+.topBar .insideTopBar {
+  width: 80%;
+  text-align: center;
+}
+
+/* line 22, ../../app/assets/stylesheets/custom.css.scss */
+.logo {
+  height: 45px;
+  weight: 45px;
+}
+
+/* line 27, ../../app/assets/stylesheets/custom.css.scss */
+.title {
+  letter-spacing: 0em;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.6);
+  float: left;
+  margin-left: 10px;
+  font-size: 2.5em;
+}
+/* line 33, ../../app/assets/stylesheets/custom.css.scss */
+.title a:link {
+  text-decoration: none;
+  color: #FFF;
+  text-align: center;
+}
+/* line 38, ../../app/assets/stylesheets/custom.css.scss */
+.title a:visited {
+  color: #FFF;
+}
+/* line 41, ../../app/assets/stylesheets/custom.css.scss */
+.title a:hover {
+  color: #d9f966;
+  background-color: transparent;
+}
+/* line 45, ../../app/assets/stylesheets/custom.css.scss */
+.title a:active {
+  color: #FFF;
+}
+
+/* line 50, ../../app/assets/stylesheets/custom.css.scss */
+.menu {
+  font-size: 1.5em;
+  color: #BBB;
+  display: inline;
+  list-style-type: none;
+  float: right;
+  margin-right: 10px;
+}
+/* line 57, ../../app/assets/stylesheets/custom.css.scss */
+.menu li {
+  display: inline;
+  list-style-type: none;
+  border-color: #111;
+  border-width: 1px;
+  padding: 5px;
+}
+/* line 63, ../../app/assets/stylesheets/custom.css.scss */
+.menu li li:hover {
+  background-color: #222;
+}
+/* line 66, ../../app/assets/stylesheets/custom.css.scss */
+.menu li a:link {
+  text-decoration: none;
+  color: #BBB;
+  text-align: center;
+}
+/* line 71, ../../app/assets/stylesheets/custom.css.scss */
+.menu li a:visited {
+  color: #BBB;
+}
+/* line 74, ../../app/assets/stylesheets/custom.css.scss */
+.menu li a:hover {
+  color: #d9f966;
+  background-color: transparent;
+}
+/* line 78, ../../app/assets/stylesheets/custom.css.scss */
+.menu li a:active {
+  color: #BBB;
+}
+
+/* line 84, ../../app/assets/stylesheets/custom.css.scss */
+nav {
+  padding: 0px;
+  display: inline;
+}
+
+/* line 89, ../../app/assets/stylesheets/custom.css.scss */
+.prePost {
+  font-size: .7em;
+}
+
+/* line 93, ../../app/assets/stylesheets/custom.css.scss */
+.tags {
+  font-size: .7em;
+  font-weight: bold;
+}
+
+/* line 98, ../../app/assets/stylesheets/custom.css.scss */
+.error {
+  color: #FF0000;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+/* line 104, ../../app/assets/stylesheets/custom.css.scss */
+.notice {
+  color: #00FF00;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+/* line 110, ../../app/assets/stylesheets/custom.css.scss */
+.leftFloat {
+  float: left;
+}
+
+/* line 114, ../../app/assets/stylesheets/custom.css.scss */
+.rightFloat {
+  float: right;
+}
+
+/* posts */
+/* line 124, ../../app/assets/stylesheets/custom.css.scss */
+.tagsBox {
+  width: 30%;
+  float: left;
+}
+
+/* line 129, ../../app/assets/stylesheets/custom.css.scss */
+.tagSelectArea {
+  width: 30%;
+  float: left;
+}
+
+/* footer */
+/* line 136, ../../app/assets/stylesheets/custom.css.scss */
+.copyright {
+  color: #FFF;
+  font-size: .7em;
+}
+
+/* line 141, ../../app/assets/stylesheets/custom.css.scss */
+footer small {
+  float: left;
+}
+
+/* line 145, ../../app/assets/stylesheets/custom.css.scss */
+.gravatar {
+  padding-bottom: 15px;
+}
+
+/* line 149, ../../app/assets/stylesheets/custom.css.scss */
+.contentBox {
+  position: absolute;
+  top: 51px;
+  bottom: 56px;
+  width: 99%;
+  margin: 0 auto;
+  overflow-y: hidden;
+}
+
+/* line 158, ../../app/assets/stylesheets/custom.css.scss */
+.content {
+  position: relative;
+  top: 10px;
+  height: 97%;
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+/* line 167, ../../app/assets/stylesheets/custom.css.scss */
+.main {
+  float: left;
+  padding: 10px 30px;
+  width: 60%;
+  max-width: 835px;
+  height: 96%;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #AAA;
+  background-color: white;
+  overflow: auto;
+}
+/* line 177, ../../app/assets/stylesheets/custom.css.scss */
+.main a:link {
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+}
+/* line 182, ../../app/assets/stylesheets/custom.css.scss */
+.main a:visited {
+  color: #000;
+}
+/* line 185, ../../app/assets/stylesheets/custom.css.scss */
+.main a:hover {
+  color: #d9f966;
+  background-color: transparent;
+}
+/* line 189, ../../app/assets/stylesheets/custom.css.scss */
+.main a:active {
+  color: #000;
+}
+
+/* line 194, ../../app/assets/stylesheets/custom.css.scss */
+.sideBar {
+  float: left;
+  margin-left: 20px;
+  width: 23%;
+  height: 99%;
+  overflow: hidden;
+}
+
+/* line 202, ../../app/assets/stylesheets/custom.css.scss */
+.searchBox {
+  position: relative;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #AAA;
+  height: 20%;
+  width: 200px;
+  padding: 10px 30px;
+  overflow: auto;
+}
+
+/* line 212, ../../app/assets/stylesheets/custom.css.scss */
+.contactBox {
+  position: relative;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #AAA;
+  width: 200px;
+  padding: 10px 30px;
+  height: 35%;
+  margin-top: 5%;
+  overflow: auto;
+}
+
+/* line 223, ../../app/assets/stylesheets/custom.css.scss */
+.secondBox {
+  position: relative;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #AAA;
+  width: 200px;
+  padding: 10px 30px;
+  height: 45%;
+  margin-top: 5%;
+  overflow: auto;
+}
+
+/* line 234, ../../app/assets/stylesheets/custom.css.scss */
+.overlay {
+  position: relative;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #AAA;
+  height: 30%;
+  width: 200px;
+  padding: 10px 30px;
+  margin-top: 5%;
+}
+
+/* footer */
+/* line 246, ../../app/assets/stylesheets/custom.css.scss */
+.bottomBar {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  height: 50px;
+  width: 100%;
+  color: #FFF;
+  border-top: 1px solid #d9f966;
+  padding-top: 5px;
+}
+
+/* line 257, ../../app/assets/stylesheets/custom.css.scss */
+.bottomBar footer {
+  width: 915px;
+  color: #FFF;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* CLEARFIX */
+/* line 265, ../../app/assets/stylesheets/custom.css.scss */
+.group:before, .group:after {
+  content: "";
+  display: table;
+}
+
+/* line 270, ../../app/assets/stylesheets/custom.css.scss */
+.group:after {
+  clear: both;
+}
+
+/* line 274, ../../app/assets/stylesheets/custom.css.scss */
+.group {
+  zoom: 1;
+  /* IE6&7 */
+}
+/* line 1, ../../app/assets/stylesheets/scaffolds.css.scss */
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 9, ../../app/assets/stylesheets/scaffolds.css.scss */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 15, ../../app/assets/stylesheets/scaffolds.css.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 21, ../../app/assets/stylesheets/scaffolds.css.scss */
+a {
+  color: #000;
+}
+/* line 23, ../../app/assets/stylesheets/scaffolds.css.scss */
+a:visited {
+  color: #666;
+}
+/* line 26, ../../app/assets/stylesheets/scaffolds.css.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 33, ../../app/assets/stylesheets/scaffolds.css.scss */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 38, ../../app/assets/stylesheets/scaffolds.css.scss */
+#notice {
+  color: green;
+}
+
+/* line 42, ../../app/assets/stylesheets/scaffolds.css.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 48, ../../app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 55, ../../app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 65, ../../app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}

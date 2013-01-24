@@ -1,0 +1,21 @@
+<div id = 'headerStretch'>
+  <header id="topBar" class="topBar">
+    <span class = 'insideTopBar'>
+      <span class = "title">
+        <%= image_tag("ccIcon.png", :border => 0, :class=>"logo") %>
+        <%= link_to "calmlyCoding", root_url %>
+      </span>
+      <nav>
+        <ul class = 'menu'>
+          <li><%= link_to "Blog",    '#' %></li>
+          <li><%= link_to "Apps",    '#' %></li>
+          <% if signed_in? %>
+            <li><%= link_to "Sign out", '/signout', method: "delete" %></li>
+          <% else %>
+            <li><%= link_to "Sign in", '/signin' %></li>
+          <% end %>
+        </ul>
+      </nav>
+    </span>
+  </header>
+</div>

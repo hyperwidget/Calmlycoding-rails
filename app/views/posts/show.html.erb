@@ -1,0 +1,56 @@
+<p id="notice"><%= notice %></p>
+
+<article>
+	<header>
+		<% if signed_in? %>
+			<%= link_to 'Edit', edit_post_path(@post) %>
+		<% end %>
+		<h1>
+		  <%= @post.title %>
+		</h1>
+
+		<p>
+		  <b>Dateposted:</b>
+		  <%= @post.datePosted %>
+		  <br/>
+		  <b>Tags:</b>
+		</p>
+	</header>
+
+	<p>
+	  <%= @post.body.split("--endIntro").first.html_safe %>
+	  <%= @post.body.split("--endIntro").last.html_safe %>
+	</p>
+</article>
+
+<section>
+	<header><h2>Comments: </h2></header>
+	<% @post.comments.each do |comment| %>
+		<article class = "comment">
+		<p> Commenter name : <%= comment.name %></p>
+		<p> Commenter email : <%= comment.email %></p>
+		<p> Comment : <%= comment.body %></p>
+		</article>
+	<% end %>
+</section>
+
+<section>
+<h2>Add a comment:</h2>
+<%= form_for([@post, @post.comments.build]) do |f| %>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :body %><br />
+    <%= f.text_area :body %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
+</section>
